@@ -10,3 +10,6 @@
 - https://www.wadiz.kr[와디즈]: 패스워드 최소 8자 최대 16자. 특수문자 제한 있음.
 - https://www.shopintake.com[인테이크]: 패스워드 최소 5자 최대 15자.
 - https://www.naver.com/[네이버]: 패스워드 최소 8자 최대 16자.
+- https://accounts.kakao.com/[카카오계정]: 패스워드 최소 8자 최대 32자.
+- https://www.eleparts.co.kr/[엘레파츠]: 패스워드 최소 6자 최대 20자. 공백 사용 불가.
+- http://www.auction.co.kr/[옥션]: 패스워드 최소 6자 최대 15자. 특수문자 제한 있음. 폼에서 스페이스바 입력을 막고 있으나 다른 곳에서 입력해 붙여넣으면 입력 가능. 로그인 및 주문결제 관련 부분에서만 TLS 사용.
