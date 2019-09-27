@@ -13,7 +13,7 @@
 - https://accounts.kakao.com/[카카오계정]: 패스워드 최소 8자 최대 32자.
 - http://www.eleparts.co.kr/[엘레파츠]: 패스워드 최소 6자 최대 20자. 특수문자 제한 있음(공백 문자). TLS가 적용된 사이트로 바로 이동하지 않음.
 - http://www.auction.co.kr/[옥션]: 패스워드 최소 6자 최대 15자. 특수문자 제한 있음. 로그인 및 주문결제 관련 부분에서만 TLS 사용.
-- https://diyjoa.com/[다이조아]: 패스워드 최소 8자 최대 16자. TLS가 적용된 사이트로 바로 이동하지 않으며, 로그인 페이지에 혼합 콘텐트(Mixed Content)가 .
+- https://diyjoa.com/[다이조아]: 패스워드 최소 8자 최대 16자. TLS가 적용된 사이트로 바로 이동하지 않으며, 로그인 페이지에 혼합 콘텐트(Mixed Content)가 존재함.
 
 == 기타
 - https://programmers.co.kr/[프로그래머스]: 패스워드 최소 6자 최대 20자.
