@@ -14,7 +14,9 @@
 - http://www.eleparts.co.kr/[엘레파츠]: 패스워드 최소 6자 최대 20자. 특수문자 제한 있음(공백 문자). TLS가 적용된 사이트로 바로 이동하지 않음.
 - http://www.auction.co.kr/[옥션]: 패스워드 최소 6자 최대 15자. 특수문자 제한 있음. 로그인 및 주문결제 관련 부분에서만 TLS 사용.
 - https://diyjoa.com/[다이조아]: 패스워드 최소 8자 최대 16자. TLS가 적용된 사이트로 바로 이동하지 않음. 혼합 콘텐트(Mixed Content)가 존재함.
-- http://www.gsnpoint.com/[GS&POINT]: 패스워드 길이 확인하지 못함. 로그인 페이지에 TLS를 사용하지 않음. (회원가입 페이지에는 사용함)
+- http://www.gsnpoint.com/[GS&POINT]: 로그인 페이지에 TLS를 사용하지 않음. (회원가입 페이지에는 사용함)
+- http://dpo.artdj.kr[대전시립교향악단] 패스워드 최소 6자 최대 16자. 정보 수정 페이지 패스워드 입력 필드 길이 제한 12자. TLS 미사용.
 
 == 기타
 - https://programmers.co.kr/[프로그래머스]: 패스워드 최소 6자 최대 20자.
+- http://www.daeguoperahouse.org/[대구오페라하우스]: 패스워드 최소 6자 최대 10자. 특수문자 사용 불가능. TLS 미사용.
