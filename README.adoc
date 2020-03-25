@@ -18,6 +18,7 @@
 - http://dpo.artdj.kr[대전시립교향악단]: 패스워드 최소 6자 최대 16자. 정보 수정 페이지 패스워드 입력 필드 길이 제한 12자. TLS 미사용.
 - http://www.interpark.com[인터파크]: 패스워드 최소 8자 최대 12자. TLS 미사용 (로그인 관련 부분에서만 사용).
 - https://www.coupang.com/[쿠팡]: 패스워드 최소 6자 최대 15자.
+
 == 기타
 - https://programmers.co.kr/[프로그래머스]: 패스워드 최소 6자 최대 20자.
 - http://www.daeguoperahouse.org/[대구오페라하우스]: 패스워드 최소 6자 최대 10자. 특수문자 사용 불가능. TLS 미사용.
