@@ -21,6 +21,7 @@
 - http://www.gmarket.co.kr/[G마켓]: 패스워드 최소 6자 최대 15자. TLS 미사용 (로그인 관련 부분에서만 사용).
 - https://www.11st.co.kr/[11번가] (https://www.skt-id.co.kr[T아이디]): 패스워드 최소 8자 최대 20자.
 - https://www.blizzard.com/[블리자드]: 패스워드 최소 8자 최대 16자.
+- http://www.logii.com/Main.pm[로지아이닷컴]: 패스워드 최소 4자 최대 16자. 특수문자 제한 있음. TLS 미사용.
 
 == 기타
 - https://programmers.co.kr/[프로그래머스]: 패스워드 최소 6자 최대 20자.
