@@ -2,7 +2,7 @@
   아래 중 하나라도 해당되는 한국어 공식 지원 사이트들을 리스팅합니다.
   - 패스워드 최소 길이 8자 이하
   - 패스워드 최대 길이 30자 이하
-  - 표준 QWERTY 자판에서 입력할 수 있는 모든 표시 가능한 ASCII 문자들을 비밀번호로 사용할 수 없음
+  - 표준 QWERTY 자판에서 입력할 수 있는 모든 표시 가능한 ASCII 문자들을 비밀번호로 사용할 수 없음 (특수문자 제한이 있음)
   - https://ko.wikipedia.org/wiki/%EC%A0%84%EC%86%A1_%EA%B3%84%EC%B8%B5_%EB%B3%B4%EC%95%88[TLS](`https://`)를 사용하고 있지 않거나 https://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security[HSTS] 미적용
 
 
