@@ -24,7 +24,7 @@
 - http://www.logii.com/Main.pm[로지아이닷컴]: 패스워드 최소 4자 최대 16자. 특수문자 제한 있음. TLS 미사용.
 - https://www.ff14.co.kr/[파이널판타지14]: 패스워드 최소 6자 최대 20자. 특수문자 제한 있음. HSTS 미적용 및 로그인 후 TLS 미적용 사이트로 리디렉션 함.
 - https://nate.com[네이트]: 패스워드 최소 8자 최대 20자. 특수문자 제한 있음(공백).
-- https://www.ktmmobile.com[KT M Mobile]: 패스워드 최소 10자 최대 15자.
+- https://www.ktmmobile.com[KT M Mobile]: 패스워드 최소 10자 최대 15자. 특수문자 사용 불가능.
 - https://kt.com[KT]: 패스워드 최대 16자.
 
 == 기타
