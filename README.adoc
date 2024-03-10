@@ -29,6 +29,7 @@
 - https://wishket.com[위시켓]: 패스워드 최소 8자 최대 31자.
 - https://www.paypal.com/[PayPal]: 패스워드 최소 8자 최대 20자.
 - https://www.dhlottery.co.kr/[동행복권]: 패스워드 최소 9자 최대 14자. 특수문자 제한 있음.
+- https://pay.tmoney.co.kr[티머니]: 패스워드 최소 8자 최대 12자. 특수문자 제한 있음.
 
 == 기타
 - https://programmers.co.kr/[프로그래머스]: 패스워드 최소 6자 최대 20자.
