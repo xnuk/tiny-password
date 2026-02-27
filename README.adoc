@@ -34,6 +34,7 @@
 - https://www.aliexpress.com[AliExpress]: 패스워드 최소 8자 최대 20자. 숨겨진 특수문자 제한 있음(따옴표, 공백, 역슬래시).
 - https://www.lawtalk.co.kr[로톡]: 패스워드 최소 8자 최대 16자, 특수문자 제한 있음.
 - https://hangame.com[한게임]: 패스워드 최소 8자 최대 15자.
+- https://thirtymall.com[떠리몰]: 패스워드 최대 16자. 숨겨진 특수문자 제한 있음(`-_\;'/` 및 공백).
 
 == 기타
 - https://www.signgate.com[공동인증서]: 패스워드 최소 10자 최대 30자, 특수문자 제한 있음.
